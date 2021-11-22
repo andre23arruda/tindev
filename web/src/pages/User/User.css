@@ -1,0 +1,59 @@
+.user-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.user-container .link-icons{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon {
+    height: 32px;
+    width: 32px;
+}
+
+.user-container .user-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    width: 70%;
+}
+
+
+.user-container .user-card img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+    margin-top: 15px;
+}
+
+.user-container .user-card footer{
+    text-align: center;
+    flex: 1;
+    background: #FFF;
+    border: 1px solid #eee;
+    padding: 15px 20px;
+    border-radius: 0 0 10px 10px;
+    max-width: 400px;
+    width: 100%
+}
+
+.user-container .user-card footer strong{
+    font-size: 32px;
+    color: #333;
+}
+
+.user-container .user-card footer p{
+    font-size: unset;
+    color: #999;
+    line-height: 35px;
+    margin-top: 5px;
+    text-align: justify;
+}

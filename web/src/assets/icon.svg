@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="61.3125"
+     inkscape:cy="48.4375"
+     inkscape:window-width="3200"
+     inkscape:window-height="1261"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+  <title
+     id="title2">tinder-1</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Web"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     style="stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99"
+     inkscape:export-filename="C:\Users\alca0\Desktop\DEV\ROCKETSEAT\Omnistack8\web\src\assets\favicon.png"
+     inkscape:export-xdpi="785.87451"
+     inkscape:export-ydpi="785.87451"
+     transform="matrix(9.5359475,0,0,9.5359475,-82.563282,-7.6101003)">
+    <g
+       id="Login"
+       transform="translate(-675,-433)"
+       fill="#df4723"
+       fill-rule="nonzero"
+       stroke="#DF4723"
+       stroke-width="0.5"
+       style="stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99">
+      <g
+         id="Group-3"
+         transform="translate(563,434)"
+         style="stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99">
+        <g
+           id="tinder-1"
+           transform="translate(113)"
+           style="stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99">
+          <path
+             d="m 12.940969,0.03524229 c 0.211454,0.09867841 0.345375,0.3030837 0.514538,0.46519824 0.274889,0.23964758 0.479365,0.55682817 0.747207,0.80352427 0.331277,0.3171806 0.542731,0.7189427 0.817621,1.078414 0.479295,0.7259912 0.902202,1.5013216 1.120705,2.3471366 0.22555,0.5779736 0.260793,1.2052864 0.246696,1.8255507 0.0141,0.5638766 -0.14097,1.1207048 -0.394784,1.6281938 C 15.556018,8.9515419 14.76659,9.4660793 13.94185,9.7409692 12.912775,9.9876652 11.777974,10.029956 10.784141,9.5929515 10.424599,9.3955947 10.015859,9.261674 9.7268723,8.9515419 9.0572687,8.4017621 8.6696035,7.5066079 8.7964758,6.6396476 8.9938326,5.0960352 9.9171806,3.7709251 10.903965,2.6290749 c 0.09163,0.169163 0.01403,0.3665198 0.07753,0.5427313 0.08458,0.3735683 0.218502,0.7682819 0.50044,1.0361233 0.345375,-0.3171806 0.711965,-0.6343612 1.008,-1.000881 0.267842,-0.3947137 0.486274,-0.8317181 0.577903,-1.2969163 0.02122,-0.5920705 0.0776,-1.21233484 -0.148017,-1.7762115 z"
+             id="Shape"
+             sodipodi:nodetypes="cccccccccccccccccc"
+             style="stroke:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata832">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>tinder-1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
