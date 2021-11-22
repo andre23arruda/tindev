@@ -35,7 +35,7 @@ Ter instalado:
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 
 ### Backend
-#### Primeiro: moddificar variáveis de ambiente (se houver)
+#### Primeiro: modificar variáveis de ambiente (se houver)
 -  **_backend/setup/env_example.py_**
 
 #### No terminal, rodar
@@ -78,7 +78,7 @@ yarn install
 # Rodar
 yarn start
 ```
-
+#### Páginas
 <div align="center">
     <img alt="Login Page" title="Login Page" src="images/web_1.png?raw=true" width="400px" />
 </div>
@@ -116,10 +116,11 @@ yarn install
 expo start
 ```
 
-#### Terceiro: rodar expo no celular
+#### Rodar expo no celular
 - Abrir expo no celular
 - Ler QR code e executar o app
 
+#### Telas
 <div align="center">
     <img alt="Splash" title="Splash" src="images/mobile_1.jpg" width="200px" />
     <img alt="Login" title="Login" src="images/mobile_2.jpg" width="200px" />
